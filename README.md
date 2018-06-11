@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hello world!
+
+I'm Morten. Learning to code...
